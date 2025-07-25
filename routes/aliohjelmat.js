@@ -12,8 +12,8 @@ router.get('/opiskelija_keskiarvo/:id', function(request, response) {
     });
 });
 
-router.get('/kurssi_keskiarvo/:id', function(request, response) {
-    aliohjelmat.kurssi_keskiarvo(request.params.id, function(err, dbResult) {
+router.get('/opintojakso_keskiarvo/:id', function(request, response) {
+    aliohjelmat.opintojakso_keskiarvo(request.params.id, function(err, dbResult) {
         if (err) {
             response.json(err);
         } else {
