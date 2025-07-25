@@ -4,3 +4,4 @@ Tämä projekti sisältää mysql tietokannan ja node.js + express sovelluksen j
 -opintojakso 
 -opiskelija 
 -opiskelija_opintojakso
+kuva-> ![ER-diagrammi](./ER-diagrammi_kuva.png)
