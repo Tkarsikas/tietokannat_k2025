@@ -7,3 +7,6 @@ Tietokanta sisältää kolme taulukkoa:
 -opintojakso
 -opiskelija_opintojakso
 kuva-> ![ER-diagrammi](./ER-diagrammi_kuva.png)
+
+Tietokannassa on käytössä kaksi aliohjelmaa joilla voi hakea yhden tai kaikkien kurssien keskiarvot ja toisella voi hakea yhden tai kaikkien opiskelijoiden keskiarvot. 
+
